@@ -1,0 +1,1 @@
+Browser form which collects Email, Country, Zip Code, Password and Password Confirmation fields usingn inline validation to inform the user wether a field is properly filled in or not. It also highlights a field red and provides a helpful error message until it has been filled in properly.  
