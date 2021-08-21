@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins';
+    margin: 0;
+}
+
+form {
+    width: 25vw;
+    margin: auto;
+    display: block;
+}
+
+.field {
+    margin-top: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+span {
+    font-size: 12px;
+}
+
+input, select {
+    margin-top: 10px;
+    width: 100%;
+}
+
+button {
+    width: 60%;
+    margin: auto;
+    display: block;
+    height: 30px;
+    margin-top: 30px;
+}
